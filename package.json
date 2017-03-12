@@ -1,0 +1,12 @@
+{
+  "name": "@textel/textel-terms-and-policies",
+  "version": "1.0.0",
+  "description": "Canonical Textel End User Policy Documents.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/textel/textel-terms-and-policies.git"
+  },
+  "author": "Andrew Snell <andrew@textel.net>",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/textel/textel-terms-and-policies"
+}
